@@ -1,4 +1,4 @@
-```yaml
+```
 additional_refs:
   - https://github.com/anthropics/skills/blob/main/skill-creator/SKILL.md
 ```
