@@ -1,6 +1,6 @@
-```
+---
 basic skill builder: https://github.com/anthropics/skills/blob/main/skill-creator/SKILL.md
-```
+---
 
 # 6 Months of Hardcore Claude Code Use: Tips, Tricks, and Workflows
 
