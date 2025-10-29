@@ -1,3 +1,8 @@
+```yaml
+additional_refs:
+  - https://github.com/anthropics/skills/blob/main/skill-creator/SKILL.md
+```
+
 # 6 Months of Hardcore Claude Code Use: Tips, Tricks, and Workflows
 
 > **Quick tip from a fellow lazy person:** You can throw this book of a post into one of the many text-to-speech AI services like ElevenLabs Reader or Natural Reader and have it read the post for you :)
